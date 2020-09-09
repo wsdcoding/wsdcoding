@@ -13,12 +13,12 @@
   </samp>
 </p>
 
+<!--
+
 <details>
   <summary><b>:telescope: 2020 goal</b></summary>
   I want to be a greater coder this year. 
 </details>
-
-
 
  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
@@ -28,7 +28,7 @@
 
 ![wsdcoding's github stats](https://github-readme-stats.vercel.app/api?username=wsdcoding&hide=[%22issues%22]&show_icons=true)
 
-<!--
+
 **wsdcoding/wsdcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
