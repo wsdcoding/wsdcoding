@@ -1,4 +1,4 @@
-### Hi there 👋
+###  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...  
 
 
 
@@ -8,7 +8,7 @@
     <br>I got bachelor degree of <em>Nanning University</em> in 2020,
     <br>My current work focuses on high availability back-end :sparkles:
     <br>
-    <img src="https://imgur.com/gallery/pTwy8Ct" width="240px" align="center">
+    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
     <br><br>:coffee: Wanna chat? :point_right: send me an email  <em>weisde@163.com</em>
   </samp>
 </p>
@@ -19,6 +19,14 @@
 </details>
 
 
+
+ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
+
+
+
+![wsdcoding's github stats](https://github-readme-stats.vercel.app/api?username=wsdcoding&hide=[%22issues%22]&show_icons=true)
 
 <!--
 **wsdcoding/wsdcoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
