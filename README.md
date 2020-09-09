@@ -1,14 +1,12 @@
 ###  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">A little more about me...  
 
-
-
 <p align="center">
   <samp>
     :wave: Hi! Welcome to my github.
     <br>I got bachelor degree of <em>Nanning University</em> in 2020,
     <br>My current work focuses on high availability back-end :sparkles:
     <br>
-    <img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">
+    <img src="https://i.imgur.com/kdKhgx6.gif" width="200px" align="center">
     <br><br>:coffee: Wanna chat? :point_right: send me an email  <em>weisde@163.com</em>
   </samp>
 </p>
