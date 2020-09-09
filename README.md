@@ -8,7 +8,7 @@
     <br>Job hunting intention: Java development engineer :sparkles:
     <br>
     <img src="https://i.imgur.com/kdKhgx6.gif" width="200px" align="center">
-    <br><br>:coffee: Wanna chat? :point_right: send me an email  <em>weisde@163.com</em>
+    <br><br>:coffee: Wanna chat? :point_right: send me an email   			       <b>weisde@163.com</b>
   </samp>
 </p>
 
