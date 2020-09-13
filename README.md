@@ -7,7 +7,7 @@
     <br>Current status: looking for a new job
     <br>Job hunting intention: Java development engineer :sparkles:
     <br>
-    <img src="https://i.imgur.com/kdKhgx6.gif" width="200px" align="center">
+    <img src="https://i.imgur.com/kdKhgx6.gif" width="140px" align="center">
     <br><br>:coffee: Wanna chat? :point_right: send me an email   			       <b>weishide1@gmail.com</b>
   </samp>
 </p>
